@@ -23,6 +23,29 @@ export const navLinks = [
   },
 ];
 
+export const navLinksEng = [
+  {
+    id: "Home",
+    title: "Home",
+  },
+  {
+    id: "About",
+    title: "About us",
+  },
+  {
+    id: "Services",
+    title: "Services",
+  },
+  {
+    id: "Contact",
+    title: "Contact",
+  },
+  {
+    id: "Languages",
+    title: "Languages",
+  },
+];
+
 export const features = [
   {
     id: "feature-1",
